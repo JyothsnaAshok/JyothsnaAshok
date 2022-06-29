@@ -26,4 +26,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyothsnaashok&show_icons=true&locale=en&layout=compact" alt="jyothsnaashok" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyothsnaashok&show_icons=true&locale=en" alt="jyothsnaashok" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyothsnaashok&show_icons=true&locale=en&theme=radical" alt="jyothsnaashok" /></p>
