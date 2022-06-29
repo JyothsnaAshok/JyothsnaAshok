@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jyothsna1809@gmail.com**
 
-- 📄 Know about my experiences [https://www.jyothsna.in/Jyothsna_Resume.pdf](https://www.jyothsna.in/Jyothsna_Resume.pdf)
+- 📄 Take a look at my resume [here](https://www.jyothsna.in/Jyothsna_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
